@@ -1,2 +1,2 @@
-# scorecard
+# scoreboard
 tennis score card
